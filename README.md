@@ -30,5 +30,5 @@ A simple React JS application that fetches product data from the Fake Store API 
 
 
 ## 🚀 Deployment
-
+https://trendyymart.netlify.app/
 
